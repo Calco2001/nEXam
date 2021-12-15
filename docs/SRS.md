@@ -146,7 +146,7 @@ Smartphones do not offer much storage space. Therefore, we strive to keep the re
 #### 3.4.2 App perfomance
 To provide the best app performance, we try to keep the response time as low as possible. This significantly improves the user experience and also makes the app more likely to be used for exam preparation.
 
-### <!--3.5 Supportability-->
+### 3.5 Supportability
 
 #### 3.5.1 Coding Standards
 We will write the code using all the common standards for clean code. For example, we will name our variables and methods after their functions. This will keep the code easy to read for everyone and make further development much easier. Also, we will follow the structure of the framework to make it easier for ourselves to get back into the structure of the app or to allow others to get into the project more easily.
@@ -165,7 +165,7 @@ The operation of the app should be as intuitive as possible, so it does not need
 ### 3.8 Purchased Components
 We do not use any purchased components so far. If there will be purchased components in the future, we will list them here.
 
-### <!--3.9 Interfaces-->
+### 3.9 Interfaces
 
 The following user interfaces are implemented: 
 
@@ -227,8 +227,6 @@ n/a
 <!--[This section describes one or more physical network (hardware)     configurations on which the software is deployed and run. It is a view of     the Deployment Model. At a minimum for each configuration it should indicate     the physical nodes (computers, CPUs) that execute the software, and their     interconnections (bus, LAN, point-to-point, and so on.) Also include a mapping     of the processes of the **Process View** onto the physical nodes.]-->
 
 ## 8. Implementation View 
-
-n/a
 
 <!--[This section describes the overall structure of the implementation     model, the decomposition of the software into layers and subsystems in the     implementation model, and any architecturally significant components.]-->
 
